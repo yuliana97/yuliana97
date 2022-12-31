@@ -17,7 +17,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-006C91?style=flat&logo=mysql&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/SQL%20Sever-CC2927?style-square&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](	https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
