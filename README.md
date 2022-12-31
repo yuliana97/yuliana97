@@ -4,7 +4,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/IzL0gtAuERKuESGN1t/giphy.gif" width="50"> A little more about me...  
 <p>A lo largo de mi aprendizaje he manejado los siguientes lenguajes:</p>
 
 <p align="center">
